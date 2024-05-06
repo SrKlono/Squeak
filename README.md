@@ -8,6 +8,12 @@ Squeak is a terminal-based music player for SoundCloud playlists and songs. It's
 - Simple, direct interface using curses.
 - Easy to use: just execute the Python file with the playlist or song links as arguments.
 
+## Screenshots
+
+![screenshot1](./screenshots/Screenshot1.png)
+![screenshot2](./screenshots/Screenshot2.png)
+![screenshot3](./screenshots/Screenshot3.png)
+
 ## Requirements
 
 - Python 3.x
